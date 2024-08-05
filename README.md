@@ -1,2 +1,3 @@
-# workerCommunityPortal
-This repository is created to maintain my current project source file and documentations, I provided those to make people can see my resource and they could give valuable insights.
+# Online Advice Generetor
+Everyone in the world always need a peice of advice from their loved one.
+What if they are being alone
