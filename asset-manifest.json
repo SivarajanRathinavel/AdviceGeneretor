@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SivarajanRathinavel/AdviceGeneretor/static/css/main.064068a8.css",
-    "main.js": "/SivarajanRathinavel/AdviceGeneretor/static/js/main.2ee798b5.js",
-    "static/js/453.08d51431.chunk.js": "/SivarajanRathinavel/AdviceGeneretor/static/js/453.08d51431.chunk.js",
-    "index.html": "/SivarajanRathinavel/AdviceGeneretor/index.html",
-    "main.064068a8.css.map": "/SivarajanRathinavel/AdviceGeneretor/static/css/main.064068a8.css.map",
-    "main.2ee798b5.js.map": "/SivarajanRathinavel/AdviceGeneretor/static/js/main.2ee798b5.js.map",
-    "453.08d51431.chunk.js.map": "/SivarajanRathinavel/AdviceGeneretor/static/js/453.08d51431.chunk.js.map"
+    "main.css": "/AdviceGeneretor/static/css/main.064068a8.css",
+    "main.js": "/AdviceGeneretor/static/js/main.c9883c90.js",
+    "static/js/453.08d51431.chunk.js": "/AdviceGeneretor/static/js/453.08d51431.chunk.js",
+    "index.html": "/AdviceGeneretor/index.html",
+    "main.064068a8.css.map": "/AdviceGeneretor/static/css/main.064068a8.css.map",
+    "main.c9883c90.js.map": "/AdviceGeneretor/static/js/main.c9883c90.js.map",
+    "453.08d51431.chunk.js.map": "/AdviceGeneretor/static/js/453.08d51431.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.064068a8.css",
-    "static/js/main.2ee798b5.js"
+    "static/js/main.c9883c90.js"
   ]
 }
