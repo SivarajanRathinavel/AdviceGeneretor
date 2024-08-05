@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SivarajanRathinavel/AdviceGeneretor.git/static/css/main.064068a8.css",
+    "main.js": "/SivarajanRathinavel/AdviceGeneretor.git/static/js/main.bf16b8a0.js",
+    "static/js/453.08d51431.chunk.js": "/SivarajanRathinavel/AdviceGeneretor.git/static/js/453.08d51431.chunk.js",
+    "static/media/logo.svg": "/SivarajanRathinavel/AdviceGeneretor.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/SivarajanRathinavel/AdviceGeneretor.git/index.html",
+    "main.064068a8.css.map": "/SivarajanRathinavel/AdviceGeneretor.git/static/css/main.064068a8.css.map",
+    "main.bf16b8a0.js.map": "/SivarajanRathinavel/AdviceGeneretor.git/static/js/main.bf16b8a0.js.map",
+    "453.08d51431.chunk.js.map": "/SivarajanRathinavel/AdviceGeneretor.git/static/js/453.08d51431.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.064068a8.css",
+    "static/js/main.bf16b8a0.js"
+  ]
+}
