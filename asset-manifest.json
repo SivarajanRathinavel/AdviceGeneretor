@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SivarajanRathinavel/AdviceGeneretor.git/static/css/main.064068a8.css",
-    "main.js": "/SivarajanRathinavel/AdviceGeneretor.git/static/js/main.19d34ffb.js",
-    "static/js/453.08d51431.chunk.js": "/SivarajanRathinavel/AdviceGeneretor.git/static/js/453.08d51431.chunk.js",
-    "index.html": "/SivarajanRathinavel/AdviceGeneretor.git/index.html",
-    "main.064068a8.css.map": "/SivarajanRathinavel/AdviceGeneretor.git/static/css/main.064068a8.css.map",
-    "main.19d34ffb.js.map": "/SivarajanRathinavel/AdviceGeneretor.git/static/js/main.19d34ffb.js.map",
-    "453.08d51431.chunk.js.map": "/SivarajanRathinavel/AdviceGeneretor.git/static/js/453.08d51431.chunk.js.map"
+    "main.css": "/SivarajanRathinavel/AdviceGeneretor/static/css/main.064068a8.css",
+    "main.js": "/SivarajanRathinavel/AdviceGeneretor/static/js/main.2ee798b5.js",
+    "static/js/453.08d51431.chunk.js": "/SivarajanRathinavel/AdviceGeneretor/static/js/453.08d51431.chunk.js",
+    "index.html": "/SivarajanRathinavel/AdviceGeneretor/index.html",
+    "main.064068a8.css.map": "/SivarajanRathinavel/AdviceGeneretor/static/css/main.064068a8.css.map",
+    "main.2ee798b5.js.map": "/SivarajanRathinavel/AdviceGeneretor/static/js/main.2ee798b5.js.map",
+    "453.08d51431.chunk.js.map": "/SivarajanRathinavel/AdviceGeneretor/static/js/453.08d51431.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.064068a8.css",
-    "static/js/main.19d34ffb.js"
+    "static/js/main.2ee798b5.js"
   ]
 }
